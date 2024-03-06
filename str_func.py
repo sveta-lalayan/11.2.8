@@ -1,5 +1,11 @@
 def capitalize_all_letter():
     input()
-'''Ф-я делает все буквы заглавными'''
+'''Функция делает все буквы заглавными'''
 result = input()
 print(result.upper())
+
+def capitalize():
+    input()
+'''Функция делает первые буквы заглавными'''
+result = input()
+print(result.title())
